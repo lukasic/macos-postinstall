@@ -32,7 +32,25 @@ Future Candidates:
 
 https://brew.sh/
 
-Tools: axel duti
+Tools: axel duti mtr zsh
+
+```
+echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
+```
+
+## Oh my ZSH
+
+https://ohmyz.sh/#install
+
+append to .zshrc:
+
+```
+export LC_ALL="en_US.UTF-8"
+export LC_CTYPE="en_US.UTF-8"
+
+alias newpass='pwgen -s -c -y 20 1'
+alias sshr='ssh-keygen -R'
+```
 
 ## Default apps
 
