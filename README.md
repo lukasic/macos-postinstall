@@ -32,10 +32,12 @@ Future Candidates:
 
 https://brew.sh/
 
-Tools: axel duti mtr zsh
-
 ```
 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
+```
+
+```
+brew install axel duti mtr zsh pyenv pyenv-virtualenv kubectl kubectx
 ```
 
 ## Oh my ZSH
