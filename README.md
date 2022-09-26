@@ -15,7 +15,8 @@
 - [DEV] VS Code, https://code.visualstudio.com/
 - [DEV] Sublime Text, https://www.sublimetext.com/
 - [MBP] Turbo Boost Switcher, http://tbswitcher.rugarciap.com/
-- [WORK] Google Chrome
+- [WORK] Royal TSX, https://royalapps.com/
+- [WORK] Google Chrome, https://www.google.com/chrome/
 
 App Store:
 
