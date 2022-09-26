@@ -4,17 +4,23 @@
 
 - Eset Cyber Security, https://www.eset.com/sk/internetova-ochrana-domacnosti/cyber-security/download/
 - VLC, https://videolan.org
+- Plexamp, https://plexamp.com/
 - Firefox, https://www.mozilla.org/sk/firefox/new/
 - Spotify, https://www.spotify.com/sk-en/download/mac/
 - iTerm2, https://iterm2.com/
 - Wireguard, https://www.wireguard.com/install/
 - MacDown, https://macdown.uranusjr.com/
 - JDownloader, https://jdownloader.org/download/index
+- Syncthing, https://syncthing.net/downloads/
+- [DEV] VS Code, https://code.visualstudio.com/
 - [DEV] Sublime Text, https://www.sublimetext.com/
-- [DEV] Sequel Pro, https://sequelpro.com/test-builds
 - [MBP] Turbo Boost Switcher, http://tbswitcher.rugarciap.com/
-- [MBP] Google Chrome
+- [WORK] Google Chrome
 
+App Store:
+
+- [DEV] Sequel Ace
+- [DEV] Snippets Lab
 
 Crypto Apps:
 - Trezor, https://trezor.io/
@@ -22,7 +28,7 @@ Crypto Apps:
 
 App Store:
 
-- System Monitor, https://apps.apple.com/cz/app/system-monitor/id423368786?mt=12
+- iStatistica, https://apps.apple.com/cz/app/istatistica/id1025822138?mt=12
 
 Future Candidates:
 
